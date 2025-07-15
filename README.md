@@ -112,12 +112,6 @@ I developed a **Google Sheets-based hybrid payroll system** that:
 
 ---
 
-## 📁 Live Demo (View-only Sheet)
-
-> [📎 Click here to view the prototype](https://docs.google.com/spreadsheets/d/1Y3kflrcyrC1fGHVqOmWEaucimqToZO18z6kgJfvTubc/edit?usp=sharing)
-
----
-
 ## 👩🏻‍💻 Author
 
 **Sakshi Chandekar**  
