@@ -60,7 +60,7 @@ I developed a **Google Sheets-based hybrid payroll system** that:
 
 ## 🧪 How to Use This Sheet (Demo Instructions)
 
-1. Open the [view-only demo sheet]([https://docs.google.com/spreadsheets/d/1DgyJn4gT_QNLhCt_rulPE5VTjnSBHt4h/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y3kflrcyrC1fGHVqOmWEaucimqToZO18z6kgJfvTubc/edit?usp=sharing))
+1. Open the [view-only demo sheet]([https://docs.google.com/spreadsheets/d/1DgyJn4gT_QNLhCt_rulPE5VTjnSBHt4h/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y3kflrcyrC1fGHVqOmWEaucimqToZO18z6kgJfvTubc/edit?usp=sharing])
 2. Go to the `Employee_A` sheet
 3. In the daily log:
    - Select an **idol name** (e.g., Idol 1)
@@ -114,7 +114,7 @@ I developed a **Google Sheets-based hybrid payroll system** that:
 
 ## 📁 Live Demo (View-only Sheet)
 
-> [📎 Click here to view the prototype]([https://docs.google.com/spreadsheets/d/1DgyJn4gT_QNLhCt_rulPE5VTjnSBHt4h/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y3kflrcyrC1fGHVqOmWEaucimqToZO18z6kgJfvTubc/edit?usp=sharing))
+> [📎 Click here to view the prototype]([https://docs.google.com/spreadsheets/d/1DgyJn4gT_QNLhCt_rulPE5VTjnSBHt4h/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y3kflrcyrC1fGHVqOmWEaucimqToZO18z6kgJfvTubc/edit?usp=sharing])
 
 ---
 
