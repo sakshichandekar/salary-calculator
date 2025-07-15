@@ -89,7 +89,8 @@ I developed a **Google Sheets-based hybrid payroll system** that:
 - 💠 **Idol-based pay** is calculated using `VLOOKUP` based on idol type, process, and quantity
 - ⏱ **Hourly wage** pay is calculated using time-in-mins × (daily wage ÷ 8)
 - 📊 Monthly totals are summed automatically at the end of the sheet
-
+  
+---
 📎 See full formula breakdown in [formulas-used.md](formulas-used.md)
 ---
 
@@ -97,7 +98,7 @@ I developed a **Google Sheets-based hybrid payroll system** that:
 
 | Main Sheet | Rates Sheet | Formula Logic |
 |------------|-------------|----------------|
-| ![](screenshots/salary-sheet.png) | ![](screenshots/rates-sheet.png) | ![](screenshots/formula.png) |
+| ![](Screenshots/salary-sheet.png) | ![](Screenshots/rates-sheet.png) | ![](Screenshots/formula.png) |
 
 ---
 
@@ -113,7 +114,7 @@ I developed a **Google Sheets-based hybrid payroll system** that:
 
 ## 📁 Live Demo (View-only Sheet)
 
-> [📎 Click here to view the prototype](https://docs.google.com/spreadsheets/d/1DgyJn4gT_QNLhCt_rulPE5VTjnSBHt4h/edit?usp=sharing)
+> [📎 Click here to view the prototype]([https://docs.google.com/spreadsheets/d/1DgyJn4gT_QNLhCt_rulPE5VTjnSBHt4h/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Y3kflrcyrC1fGHVqOmWEaucimqToZO18z6kgJfvTubc/edit?usp=sharing))
 
 ---
 
